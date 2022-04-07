@@ -2,14 +2,14 @@ let html=document.querySelector('#html')
 let style = document.querySelector('#style')
 let str=`
 /*我是一枚前端新人
-*我来自江苏徐州
-*据说成为程序员会秃头，明显是个谣言！
-*为了破除谣言，我决定以身试毒:P
-*加油，实现目标！
-*接下来，我要加样式了！
-*样式是：
-*我来演示一下前端功底
-*首先我要准备一个div
+* 我来自江苏徐州
+* 据说成为程序员会秃头，明显是个谣言！
+* 为了破除谣言，我决定以身试毒（搞笑诺奖我拿定了:P）
+* 加油，实现目标！
+* 接下来，我要加样式了！
+* 样式是：
+* 我来演示一下前端功底
+* 首先我要准备一个div
 **/
     #div1{
     border:1px solid green;
@@ -75,7 +75,7 @@ let step =()=>{
         if(n<str.length){
             step()
         }
-    },50)
+    },40)
 }
 //推翻正则重新写，用string2
 // let step = ()=>{
