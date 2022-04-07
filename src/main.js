@@ -2,15 +2,15 @@ let html=document.querySelector('#html')
 let style = document.querySelector('#style')
 let str=`
 /*我是一枚前端新人
-我来自江苏徐州
-我以前写的页面都不会动，现在我要写一个会动的页面
-而且，我要在年后，找到一份好的前端工作
-加油，实现目标！
-接下来，我要加样式了！
-样式是：
+*我来自江苏徐州
+*据说成为程序员会秃头，明显是个谣言！
+*为了破除谣言，我决定以身试毒:P
+*加油，实现目标！
+*接下来，我要加样式了！
+*样式是：
 *我来演示一下前端功底
 *首先我要准备一个div
-*/
+**/
     #div1{
     border:1px solid green;
     width:200px;
